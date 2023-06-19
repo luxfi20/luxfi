@@ -10,10 +10,10 @@ Here's how to add images and PDF to Jekyll's post :
 
 To add images, you can add syntax
 
-![image](/newblog/image/image.png)
+![image](/luxfi/assets/img/posts/image.png)
 
 Linking to a PDF for readers to download :
 
-![pdf](/newblog/image/pdf.png)
+![pdf](/luxfi/assets/img/posts/pdf.png)
 
 
