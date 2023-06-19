@@ -37,4 +37,4 @@ Demo using the Minima theme:
    -  Ketik nama file dengan format yyyy-mm-dd-post.md.
    -  Add YAML Front Matter and some content, for example
    
-      ![jekyll2](luxfi/assets/img/posts/jekyll2.png)
+      ![jekyll2](/assets/img/posts/jekyll2.png)
