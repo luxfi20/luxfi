@@ -16,14 +16,14 @@ Demo using the Minima theme:
    - Name the file _config.yml.
    - Add the basic YAML fields required by Jekyll:
    
-      ![jekyll](/luxfi/assets/img/posts/jekyll.png)
+      ![jekyll](/assets/img/posts/jekyll.png)
       
 3. Buat file about.md untuk halaman about
    - Klik create new file
    - Name the file about.md
    - At the top of the file add YAML Front Matter. Add some content. For example:
    
-      ![jekyll1](/luxfi/assets/img/posts/jekyll1.png)
+      ![jekyll1](/assets/img/posts/jekyll1.png)
    
 4. Activate gh-pages:
    - Klik tab setting repository
